@@ -7,7 +7,7 @@ I'm a software engineering passionate <b>backend developer</b> focus on:
 
 -  Java, Spring Boot, Spring Security, Hibernate, ORM, IoC, RESTful APIs
 -  Security: JWT, Oauth2, Authentication & Authorization
--  DevOps: **CI/CD pipelines**, **exploring Docker**, **AWS Cloud infrastructure**, **Microservices (Spring Cloud)**, and system desig.
+-  DevOps: **CI/CD pipelines**, **exploring Docker**, **AWS Cloud infrastructure**, **Microservices (Spring Cloud)**, and system design.
 
 ## 🌐Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-link)
